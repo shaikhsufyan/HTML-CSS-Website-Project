@@ -1,0 +1,144 @@
+ 
+.navbar-container{
+    display: flex;
+    margin: 3%;
+    
+}
+ .logo{
+    width: 100px;
+    height: 35px;
+    position: relative;
+    left: 22%;
+ }
+div li{
+     
+     
+    display: inline-flex;
+    margin: 15px;
+    position: relative;
+    left: 40%;
+    margin-top: -5%;
+    font-size: 25px;
+    
+     
+     
+}
+ .button-group{
+    display:flex;
+    margin: 10px;
+    position: relative;
+    left: 30%;
+     
+     
+}
+.search-icon{
+    margin-top: -1%;
+}
+ 
+button.nav-button{
+     
+     width: 130px;
+     height: 32px;
+     background-color: white;
+     border-radius: 10px;
+     color: gray;
+     font-size: 18px;
+      margin-left: 10%;
+      margin-top: -4%;
+     text-align: center;
+     /* position: absolute;
+     top: 1%; */
+      
+     
+
+}
+.hero-container{
+    /* display: flex; */
+
+}
+.square img{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 15.4%;
+    top: 59.1%;
+    
+    
+}
+
+.hero-container div img{
+    width: 340px;
+    height: 430px;
+    position: absolute;
+    left: 5%;
+
+}
+.star img{
+    
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 23%;
+    left: 84.5%;
+}
+.globe img{
+    width: 46px;
+    height: 46px;
+    position: absolute;
+    top: 18%;
+    left: 49%;
+}
+h1.hero-heading{
+    position: absolute;
+    left: 38.6%;
+    top: 24%;
+    font-size: 70px;
+}
+p.hero-description{
+    position: absolute;
+    left: 46%;
+    top: 47%;
+    font-size: 16px;
+}
+.button-email{
+    font-size: 16px;
+    width: 160px;
+    height: 30px;
+    background-color: white;
+    color: rgb(75, 74, 74);
+    border-radius: 8px;
+    position: absolute;
+    left: 54%;
+    top: 65%;
+
+}
+.button-join{
+    text-transform: uppercase;
+    width: 100px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.904);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    position: absolute;
+    left: 67%;
+    top: 65%;
+
+
+}
+.contact-heading{
+    position: absolute;
+    top: 79.2%;
+    left: 60%;
+    font-size: 20px;
+}
+.icons span img{
+    display: inline-flex;
+    margin: 10px;
+    width: 26px;
+    height: 26px;
+     position: relative;
+     top: 400px;
+     left: 56.6%;
+}
